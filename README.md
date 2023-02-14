@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to build cool SaaS products.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me look up Arib.lol in a browser.
-- 🚀Building Openpool.co with friends
+- 🚀Building Buildspace.so with friends
 
 <!---
 Aribk7/Aribk7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
